@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/FinalExam.iml" filepath="$PROJECT_DIR$/.idea/FinalExam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SaleSytems/SaleSytems.iml" filepath="$PROJECT_DIR$/SaleSytems/SaleSytems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UnlimitedArray/UnlimitedArray.iml" filepath="$PROJECT_DIR$/UnlimitedArray/UnlimitedArray.iml" />
+    </modules>
+  </component>
+</project>
